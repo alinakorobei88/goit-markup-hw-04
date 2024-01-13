@@ -395,8 +395,7 @@ display: flex;
 .portfolio-list-item-link {
     width: 360px;
     height: 300px;
-    flex-shrink: 0;
-    
+    flex-shrink: 0; 
 }
 
 .portfolio-description {
@@ -409,7 +408,7 @@ display: flex;
     /*padding-bottom: 32px;*/
    /* gap: 8px;*/
     flex-basis: calc((100% - 48px) / 3);
-    box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16), 0px 1px 6px 0px rgba(46, 47, 66, 0.08);;
+    box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16), 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
     /*border: 1px solid #e7e9fc;*/
 }
 
