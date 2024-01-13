@@ -490,12 +490,8 @@ display: flex;
 }
 
 .footer-container {
-    
-
-}
-
-.footer-container {
     position: relative;
+    align-items: baseline;
 }
 
 .footer-title {
@@ -524,7 +520,7 @@ font-weight: 500;
 letter-spacing: 0.32px;
 line-height: 1.5;
 color: #FFFFFF;
-padding-bottom: 16px;
+margin-bottom: 16px;
 }
 
 .footer-icons-list {
