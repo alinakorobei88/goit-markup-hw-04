@@ -457,6 +457,7 @@ display: flex;
 .foot-container {
     display: flex;
     margin-right: 120px;
+    align-items: baseline;
 }
 
 .foot-container-logo {
@@ -491,7 +492,6 @@ display: flex;
 
 .footer-container {
     position: relative;
-    align-items: baseline;
 }
 
 .footer-title {
